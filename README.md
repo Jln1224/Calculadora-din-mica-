@@ -1,2 +1,2 @@
-# Calculadora-din-mica-
-Esta é uma calculadora dinâmica que está em desenvolvimento
+# Calculadora-dinâmica
+Que foi desenvolvida com JavaScript e Html
