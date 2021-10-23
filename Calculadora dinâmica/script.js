@@ -7,16 +7,6 @@
         //Queremos um sinal (tipo de operação)
         //Quero um número final
 
-        /*var calculadora = [];
-                           
-        document.querySelector('input[type=submit]')
-        .addEventListener('click', ()=>{
-            
-            var numeroInicial = document.querySelector('[prompt]')
-            var sinal = document.querySelector('[prompt]')
-            var numeroFinal = document.querySelector('[prompt]')
-        });
-         */
         function FuncaoDaCalc(){
         var numeroInicial = prompt ('informe o primeiro número...');
 
