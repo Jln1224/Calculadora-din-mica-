@@ -1,5 +1,4 @@
-    
-//SCRIPT BY L0XYS
+
 
     //Aplicação calculadora dinâmica.
         
