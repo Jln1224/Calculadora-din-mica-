@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: blue;
+}
+
+button{
+    background:gray;
+    border: 1px solid blue;
+}
+button:hover{
+    transition: 2s;
+    background:blue;
+    color: black;
+}
